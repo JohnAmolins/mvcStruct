@@ -11,4 +11,4 @@ define('APPROOT', dirname(dirname(__FILE__)));
 # root for the URL
 define('URLROOT', 'https://localhost/INSERT_APP_NAME');
 
-define('SITENME', 'INSERT_SITE_NAME');
+define('SITENAME', 'INSERT_SITE_NAME');
