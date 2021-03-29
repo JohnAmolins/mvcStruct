@@ -9,7 +9,7 @@
         # secondly - call a model function
         public function index(){            // method 'index'; need to have an index method as 'default' if no other methods are present
             
-            $data = ['title'=> 'Welcome to ForumApp'];          
+            $data = ['title'=> 'Welcome to ...'];          
             
             
         # pass data into a view
